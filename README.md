@@ -28,7 +28,9 @@ This repository contains the code, models, and resources for a Conditional GAN (
    ```bash
    git clone https://github.com/DevNRot/final_project_STGAN.git
    cd final-project-dlip```
-2. Ensure the dataset is placed inside the `data/` folder.
+   
+2. Place the dataset is placed inside the `data/` folder, where the Monet images are in the nested monet_jpg 
+   folder and the photographs are in the nested photos_jpg folder.
 
 3. Run the training notebook:
    - `Final_Project_Training_Loop_v3.ipynb`
