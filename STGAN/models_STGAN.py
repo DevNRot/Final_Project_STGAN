@@ -1,4 +1,4 @@
-# Written by Devorah Rotman 316472026 and Carmit Kaye 346038169
+# Written by Devorah Rotman and Carmit Kaye
 
 
 import torch
